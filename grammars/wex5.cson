@@ -1,0 +1,12 @@
+# TextMate tutorial: http://manual.macromates.com/en/language_grammars
+
+scopeName: 'text.html.w' # <scope> should be a short, unique indicator for the language ("js", "php", "c", etc.)
+name: 'html' # The title that will show up in grammar selection and on your status bar. 直接当html用，可以配合代码整理工具
+fileTypes: [ # An array of file extensions.
+  'w'
+]
+patterns: [ # An array of individual pattern declarations.
+  {
+    include: 'text.html.basic' # This can be a reference to another grammar (by scope name), the current grammar (with `$self`), or a rule from the grammar's repository (with `#<rule>`). Optional.
+  }
+]

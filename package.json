@@ -1,0 +1,15 @@
+{
+  "name": "language-wex5",
+  "version": "0.0.0",
+  "description": "atom language package for wex5 w ext file",
+  "keywords": [
+    "language",
+    "grammar",
+    "wex5",
+    "w"
+  ],
+  "repository": "https://github.com/atom/language-wex5",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
