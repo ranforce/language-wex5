@@ -8,7 +8,7 @@
     "wex5",
     "w"
   ],
-  "repository": "https://github.com/atom/language-wex5",
+  "repository": "https://github.com/ranforce/language-wex5",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }
