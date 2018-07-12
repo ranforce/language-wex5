@@ -1,6 +1,6 @@
 {
   "name": "language-wex5",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "atom language package for wex5 w ext file",
   "keywords": [
     "language",
